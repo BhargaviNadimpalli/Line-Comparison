@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.exe
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.deps.json
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.runtimeconfig.json
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.runtimeconfig.dev.json
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.dll
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\bin\Debug\netcoreapp3.1\Line-Comparison.pdb
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.AssemblyInfo.cs
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.dll
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.pdb
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.genruntimeconfig.cache
