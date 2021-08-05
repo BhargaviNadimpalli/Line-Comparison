@@ -10,3 +10,4 @@ C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Compar
 C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.dll
 C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.pdb
 C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.genruntimeconfig.cache
+C:\Users\HP\source\repos\cSharp\day3\Line-Comparison\Line-Comparison\Line-Comparison\obj\Debug\netcoreapp3.1\Line-Comparison.csproj.AssemblyReference.cache
